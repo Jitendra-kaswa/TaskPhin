@@ -1,3 +1,7 @@
+## Depoyed servies access links
+1. Backend - [Backend](https://taskphin-ew16.onrender.com)
+2. Frontend - [Frontend](https://creative-rugelach-f8b4a6.netlify.app/)
+
 # Directory structure
 1. `/backend` -> base directory for backend service
 2. `/frontend` -> base directory for frontend service
